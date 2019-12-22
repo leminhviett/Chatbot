@@ -1,7 +1,7 @@
 # ChatBot - Deploy by using Flask
 
 
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://github.com/leminhviett/Chatbot/blob/master/data/SharedScreenshot.jpg" width="1000" height="350">
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://github.com/leminhviett/Chatbot/blob/master/data/SharedScreenshot.jpg" width="1000" height="450">
 
 
 ## Project Overview
