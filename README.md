@@ -13,6 +13,7 @@ To pre-process the data, I use some Natural Language Processing techniques to de
 And then I build a deep learning model with Pytorch. My model will classified the message to specific predefined task and then give response. 
 
 ## What I have learnt
-- Applying some Natural Language Processing like bag-of-words, tokenization with NLTK
-- Using Flask to deploy a machine learning model
-- Using Pytorch to create a classification model
+- Applied some Natural Language Processing like bag-of-words, tokenization with NLTK
+- Implemented a classification model using Pytorch
+- Deployed this model using Flask
+
